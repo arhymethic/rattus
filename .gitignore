@@ -1,0 +1,21 @@
+# Build outputs & dependencies
+*.o
+*.a
+*.so
+*.d
+sim_mouse
+sim_mouse_*
+build/
+.pio/
+.vscode/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# System files
+.DS_Store
+*.swp
+*~
